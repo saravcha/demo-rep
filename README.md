@@ -11,4 +11,4 @@ Some description
 
 Change made in feature
 
-Quick text
+Quick text & main
